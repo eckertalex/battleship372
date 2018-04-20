@@ -35,3 +35,9 @@ Building this project in the Terminal (\*nix):
 * Now, you can play the game with the following command:
   * `./battleship`
 * Enjoy!!
+
+***
+
+## Impressions
+![menu](images/mainMenu.png)
+![battle](images/battle.png)
